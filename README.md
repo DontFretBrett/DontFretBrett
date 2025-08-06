@@ -11,7 +11,7 @@ I'm a passionate technologist who started coding at age 12, turning a hobby into
 
 - 🏗️ Full Stack Development with React, Node.js, .NET, and Angular
 - ☁️ Cloud Architecture using AWS and Azure
-- 🤖 AI Integration & Prompt Engineering
+- 🤖 AI Integration & AI Agentic Engineering
 - 👥 Team Leadership & Technical Direction
 - 🎯 Project Architecture & Delivery
 
