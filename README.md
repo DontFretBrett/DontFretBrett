@@ -6,17 +6,15 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=dontfretbrett&show_icons=true&theme=radical" alt="Brett's GitHub stats" />
+      <img src="./profile/stats.svg" alt="Brett's GitHub stats" />
     </td>
     <td width="50%">
-      <img src="https://streak-stats.demolab.com/?user=dontfretbrett&theme=radical" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=DontFretBrett&theme=radical" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dontfretbrett&layout=compact&theme=radical" alt="Top Langs" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dontfretbrett&theme=radical)](https://github.com/dontfretbrett/github-profile-trophy)
+<img src="./profile/top-langs.svg" alt="Top Langs" />
 
 ---
 
