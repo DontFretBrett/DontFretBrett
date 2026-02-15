@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="./profile/stats.svg" alt="Brett's GitHub stats" />
+      <img src="https://raw.githubusercontent.com/DontFretBrett/DontFretBrett/master/profile/stats.svg" alt="Brett's GitHub stats" />
     </td>
     <td width="50%">
       <img src="https://streak-stats.demolab.com/?user=DontFretBrett&theme=radical" alt="GitHub Streak" />
@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-<img src="./profile/top-langs.svg" alt="Top Langs" />
+<img src="https://raw.githubusercontent.com/DontFretBrett/DontFretBrett/master/profile/top-langs.svg" alt="Top Langs" />
 
 ---
 
