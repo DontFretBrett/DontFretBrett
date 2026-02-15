@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brett Sanders</h1>
-<h3 align="center">Technology Leader & Full Stack Engineer | AI & Automation Enthusiast</h3>
+<h3 align="center">Software Engineering Director | Full Stack Engineer | AI & Agentic Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dontfretbrett" alt="dontfretbrett" /> </p>
 
@@ -11,15 +11,16 @@
 
 ### Currently
 
-🔭 Building high-quality, maintainable systems  
-💡 Exploring AI agents and automation  
+🔭 **Director of Engineering** at Truist  
+🤖 Building autonomous AI agents (OpenClaw, J5-Trade) and production AI systems  
+💡 LLMs, CrewAI, LangGraph, MCP — certified in AI Agentic Engineering  
 📫 [brettsanders.com](https://brettsanders.com)
 
 ---
 
 ### About Me 🚀
 
-I'm a passionate technologist who started coding at age 12, turning a hobby into a rewarding career. With over 15 years of experience in the financial sector, I've evolved from developer to director, specializing in building high-quality, maintainable systems.
+I've been coding since age 11 and turned it into a career spanning 13+ years in financial services. I've grown from engineer to **Software Engineering Director** at Truist, where I lead teams building customer-facing web, mobile, and lending platforms. I'm passionate about AI—especially autonomous agents and LLM integration—and bringing that into production to transform how teams ship. AWS and SAFe certified. Award-winning for process innovation and delivery.
 
 ### Tech Stack
 
@@ -37,11 +38,10 @@ I'm a passionate technologist who started coding at age 12, turning a hobby into
 
 ### What I Do 💻
 
-- 🏗️ Full Stack Development with React, Node.js, .NET, and Angular
-- ☁️ Cloud Architecture using AWS and Azure
-- 🤖 AI Integration & AI Agentic Engineering
-- 👥 Team Leadership & Technical Direction
-- 🎯 Project Architecture & Delivery
+- 🏗️ **Full Stack** — React, TypeScript, Node.js, .NET, Angular, Python
+- ☁️ **Cloud & DevOps** — AWS, Azure, Docker, CI/CD, 99.9% uptime
+- 🤖 **AI & Agents** — LLM integration, prompt engineering, autonomous systems (OpenAI, Claude, Gemini)
+- 🎯 **Architecture** — APIs, microservices, accessibility (ADA), security pipelines
 
 ### Connect With Me 🌐
 
