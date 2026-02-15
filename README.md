@@ -3,18 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dontfretbrett" alt="dontfretbrett" /> </p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/DontFretBrett/DontFretBrett/master/profile/stats.svg" alt="Brett's GitHub stats" />
-    </td>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com/?user=DontFretBrett&theme=radical" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/DontFretBrett/DontFretBrett/master/profile/top-langs.svg" alt="Top Langs" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DontFretBrett&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
