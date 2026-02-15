@@ -9,7 +9,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=dontfretbrett&show_icons=true&theme=radical" alt="Brett's GitHub stats" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dontfretbrett&theme=radical" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=dontfretbrett&theme=radical" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -60,4 +60,6 @@ When I'm not coding, you might find me playing guitar - I used to sing in an ind
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/dontfretbrett/DontFretBrett/output/github-contribution-grid-snake.svg)
+<!-- Snake: Uncomment after running Actions → "Generate contribution snake" to create the output branch
+![Snake animation](https://raw.githubusercontent.com/DontFretBrett/DontFretBrett/output/github-contribution-grid-snake.svg)
+-->
